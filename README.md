@@ -2,7 +2,12 @@
 
 
 ![](helper.png)
+
+
 ![](hashtags.png)
+
+
+![](cleanedData.png)
 
 
 ![](Macron+LePen.png)
@@ -12,5 +17,3 @@
 
 
 ![](LePen.png)
-
-![](By_region_plot.png)
