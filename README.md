@@ -8,11 +8,11 @@ Macron and LePen are harsh rivals in the 2017 France presidential election.
 
 * Get top hashtags from dataset
 
-* Filter by city, compare tweets for lepen and tweets for macron
+* Filter by city/region, compare tweets for LePen and tweets for Macron
 
-* Group by politician, compare retweet count and favorite count 
+* Group Tweets by Politician mentioned, compare retweet count and favorite count 
 
-* Compare tweets from within to france to tweets outside of the world
+* Compare tweets about French Election from within to France to tweets about French Election from the rest of the world
 
 ## Graphs
 ![](helper.png)
