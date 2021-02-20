@@ -3,6 +3,8 @@
 ## Intro
 
 Macron and LePen are harsh rivals in the 2017 France presidential election.
+
+
 ![](Unknown.jpeg)
 
 ## Goals
@@ -11,7 +13,7 @@ Macron and LePen are harsh rivals in the 2017 France presidential election.
 
 * Filter by city/region, compare tweets for LePen and tweets for Macron
 
-* Group Tweets by Politician mentioned, compare retweet count and favorite count 
+* Compare retweet and favorite by politician
 
 * Compare tweets about French Election from within to France to tweets about French Election from the rest of the world
 
