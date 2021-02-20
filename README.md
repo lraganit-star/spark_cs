@@ -3,6 +3,7 @@
 ## Intro
 
 Macron and LePen are harsh rivals in the 2017 France presidential election.
+![](Unknown.jpeg)
 
 ## Goals
 
